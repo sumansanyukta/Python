@@ -55,4 +55,5 @@ p1.age = 40
 
 print(p1.myfunc())
 
-del p1.age
+del p1.age #age property
+del p1 #delete object
